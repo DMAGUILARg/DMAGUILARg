@@ -1,65 +1,75 @@
-# ¡Hola! 👋 Bienvenida a mi perfil
-
-Soy una **programadora apasionada** con experiencia en desarrollo web, especializada en **back-end**, pero también versátil en **front-end**. Me encanta explorar nuevas tecnologías, resolver problemas y trabajar con datos. Estoy buscando oportunidades laborales donde pueda aplicar mis habilidades y seguir creciendo como desarrolladora.
+<div align="center">
+  <h1>Diana Aguilar</h1>
+  <p>Desarrolladora Web | Especialista en Back-End | Apasionada por Datos y Tecnología</p>
+  <p><strong>Busco oportunidades laborales</strong> para diseñar soluciones robustas e innovadoras.</p>
+  <a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/Email-tuemail@example.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-tu_perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
+
+<div style="background: #fafafa; padding: 25px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 20px 0;">
 
 ### Lenguajes y Tecnologías
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" title="PHP">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js">
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" title="HTML">
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" title="CSS">
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" title="Python">
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React">
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; padding: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" title="PHP">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" title="HTML">
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" title="CSS">
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" title="JavaScript">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" title="Python">
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" title="React">
 </div>
 
 ### Bases de Datos
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" title="MySQL">
-  <img src="https://skillicons.dev/icons?i=sqlserver" width="40" height="40" alt="SQL Server" title="SQL Server">
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; padding: 15px 0;">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL" title="MySQL">
+  <img src="https://skillicons.dev/icons?i=sqlserver" width="50" height="50" alt="SQL Server" title="SQL Server">
 </div>
 
-### Herramientas y Otros
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git">
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=rest" width="40" height="40" alt="REST API" title="REST API">
-  <img src="https://skillicons.dev/icons?i=stats" width="40" height="40" alt="Análisis de datos" title="Análisis de datos">
+### Herramientas y Especialidades
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; padding: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" title="Git">
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=rest" width="50" height="50" alt="REST API" title="REST API">
+  <img src="https://skillicons.dev/icons?i=stats" width="50" height="50" alt="Estadísticas" title="Estadísticas">
+  <img src="https://skillicons.dev/icons?i=pandas" width="50" height="50" alt="Pandas" title="Pandas (Análisis de datos)">
+  <img src="https://skillicons.dev/icons?i=server" width="50" height="50" alt="Back-End" title="Desarrollo Back-End">
 </div>
-- Desarrollo back-end  
+
+</div>
 
 ---
 
-## 🌱 Actualmente
-- **Buscando trabajo** como desarrolladora, con foco en proyectos que aprovechen mis habilidades en tecnologías web o análisis de datos.  
-- En mi tiempo libre, desarrollo **proyectos personales** para experimentar con herramientas como CodeIgniter, MySQL, SQL Server, React y APIs REST, además de aprender sobre nuevas tendencias.
+## 🌟 Sobre mí
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="background: #fafafa; padding: 20px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); width: 45%; min-width: 300px;">
+    <h3>Actualmente</h3>
+    <p>Busco <strong>oportunidades laborales</strong> donde pueda contribuir con mis habilidades en desarrollo web y análisis de datos. En mi tiempo libre, desarrollo proyectos personales con herramientas como CodeIgniter, MySQL, SQL Server, React y APIs REST.</p>
+  </div>
+  <div style="background: #fafafa; padding: 20px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); width: 45%; min-width: 300px;">
+    <h3>Mi enfoque</h3>
+    <p>Me especializo en <strong>back-end</strong>, diseñando sistemas sólidos y optimizando bases de datos. También disfruto creando interfaces dinámicas con React, JavaScript, HTML y CSS para proyectos integrales.</p>
+  </div>
+</div>
 
 ---
 
-## 💻 Mi enfoque
-Me apasiona el **back-end**: construir sistemas sólidos, optimizar bases de datos y asegurar que todo funcione detrás de escena. También disfruto darle vida a interfaces con HTML, CSS, JavaScript y React cuando el proyecto lo requiere. Mi meta es crear soluciones eficientes y bien estructuradas.
+## 🤝 Conéctate conmigo
+
+<div align="center" style="margin: 20px 0;">
+  <p>Estoy abierta a <strong>oportunidades laborales</strong> y colaboraciones en proyectos tecnológicos.</p>
+  <p>
+    <a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/Email-tuemail@example.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-tu_perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </p>
+</div>
 
 ---
 
-## 🤝 ¿Colaboramos?
-- Estoy abierta a oportunidades laborales o colaboraciones en proyectos de desarrollo web.  
-- Si necesitas una desarrolladora con experiencia en back-end o quieres charlar sobre tecnología, ¡contáctame!
-
----
-
-## 📫 Contacto
-- **Email**: [tuemail@example.com](mailto:tuemail@example.com) *(actualiza esto)*  
-- **LinkedIn**: [tu-linkedin](https://linkedin.com/in/tu-perfil) *(agrega tu enlace si tienes)*  
-
----
-
-## ⚡ Sobre mí
-En mi tiempo libre, me dedico a proyectos personales que me desafían y me permiten explorar nuevas ideas. ¡Siempre estoy lista para aprender algo nuevo y aportar valor a un equipo!
-
----
-
-*"El código es mi lienzo: combino lógica y creatividad para resolver problemas."*
+<div align="center">
+  <p><em>"Transformo ideas en soluciones a través del código."</em></p>
+</div>
