@@ -2,8 +2,8 @@
   <h1>Diana Aguilar</h1>
   <p>Desarrolladora Web | Especialista en Back-End | Apasionada por Datos y Tecnología</p>
   <p><strong>Busco oportunidades laborales</strong> para diseñar soluciones robustas e innovadoras.</p>
-  <a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/Email-tuemail@example.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-tu_perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dianaguilar130@gmail.com"><img src="https://img.shields.io/badge/Email-dianaguilar130@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="http://www.linkedin.com/in/diana-maria-aguilar-gutierrez-63b2bb167"><img src="https://img.shields.io/badge/LinkedIn-Diana_Aguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 ---
@@ -33,26 +33,24 @@
 <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; padding: 15px 0;">
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" title="Git">
   <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=rest" width="50" height="50" alt="REST API" title="REST API">
-  <img src="https://skillicons.dev/icons?i=stats" width="50" height="50" alt="Estadísticas" title="Estadísticas">
-  <img src="https://skillicons.dev/icons?i=pandas" width="50" height="50" alt="Pandas" title="Pandas (Análisis de datos)">
-  <img src="https://skillicons.dev/icons?i=server" width="50" height="50" alt="Back-End" title="Desarrollo Back-End">
+  <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="Vite" title="Vite">
+  <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="npm" title="npm">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="Visual Studio Code" title="Visual Studio Code">
 </div>
 
 </div>
 
 ---
-
-## 🌟 Sobre mí
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <div style="background: #fafafa; padding: 20px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); width: 45%; min-width: 300px;">
-    <h3>Actualmente</h3>
-    <p>Busco <strong>oportunidades laborales</strong> donde pueda contribuir con mis habilidades en desarrollo web y análisis de datos. En mi tiempo libre, desarrollo proyectos personales con herramientas como CodeIgniter, MySQL, SQL Server, React y APIs REST.</p>
-  </div>
-  <div style="background: #fafafa; padding: 20px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); width: 45%; min-width: 300px;">
-    <h3>Mi enfoque</h3>
-    <p>Me especializo en <strong>back-end</strong>, diseñando sistemas sólidos y optimizando bases de datos. También disfruto creando interfaces dinámicas con React, JavaScript, HTML y CSS para proyectos integrales.</p>
+  <h2>✨  Sobre mí</h2>
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; padding: 15px 0;">
+    <div style="width: 45%; min-width: 300px;">
+      <p><strong>💡 Actualmente</strong></p>
+      <p>Estoy enfocada en encontrar <strong>oportunidades laborales</strong> donde pueda aplicar mi experiencia en desarrollo web y análisis de datos. En mi tiempo libre, me sumerjo en <em>proyectos personales</em>, utilizando herramientas como <strong>CodeIgniter</strong>, <strong>MySQL</strong>, <strong>SQL Server</strong>, <strong>React</strong> y <strong>APIs REST</strong> para seguir construyendo mi camino profesional.</p>
+    </div>
+    <div style="width: 45%; min-width: 300px;">
+      <p><strong>🎯 Mi enfoque</strong></p>
+      <p>Mi Mi enfoque esta en el <strong>back-end</strong>: diseño sistemas sólidos, optimizo bases de datos y aseguro que todo funcione perfectamente . Pero también me encanta dar vida a las ideas con interfaces dinámicas usando <strong>React</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> y <strong>CSS</strong>, creando soluciones completas y efectivas.</p>
+    </div>
   </div>
 </div>
 
@@ -63,13 +61,7 @@
 <div align="center" style="margin: 20px 0;">
   <p>Estoy abierta a <strong>oportunidades laborales</strong> y colaboraciones en proyectos tecnológicos.</p>
   <p>
-    <a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/Email-tuemail@example.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-tu_perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:dianaguilar130@gmail.com"><img src="https://img.shields.io/badge/Email-dianaguilar130@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="http://www.linkedin.com/in/diana-maria-aguilar-gutierrez-63b2bb167"><img src="https://img.shields.io/badge/LinkedIn-Diana_Aguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
-</div>
-
----
-
-<div align="center">
-  <p><em>"Transformo ideas en soluciones a través del código."</em></p>
 </div>
